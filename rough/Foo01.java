@@ -10,6 +10,7 @@ public class Foo01 {
         double weight = 70.5;
         String[] skills = {"Next js", "Typescript"};
 
+        System.out.println(9090);
         System.out.printf("Name: %s\n", name);
         System.out.printf("Age: %d\n", age);
         System.out.printf("Height: %.1f\n", height); // %.1f for one decimal place
